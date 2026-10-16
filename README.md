@@ -1,5 +1,5 @@
 <!-- Divididor horizontal (gradiente) -->
-<img src="https://tse3.mm.bing.net/th/id/OIP.0RaAH6HaC4CGD_C85FTe8AHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Saludo principal -->
 <div id="user-content-toc">
@@ -10,7 +10,7 @@
 
 <!-- Animación Snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://th.bing.com/th/id/R.0970e5a9612e3b8610db9cc52d3f0379?rik=KorjIaDNP9NV4Q&pid=ImgRaw&r=0" alt="img" />
 </div>
 
 <!-- Subtítulo -->
@@ -78,7 +78,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/](https://www.linkedin.com/in/alejandro-zea-b9961337b/?isSelfProfile=true" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-zea-b9961337b/?isSelfProfile=true" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" />
   </a>
   &nbsp;
