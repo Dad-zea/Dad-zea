@@ -48,7 +48,7 @@
 <!-- Trofeos de GitHub -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Dad-zea&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" width="84%" src="https://tse3.mm.bing.net/th/id/OIP.jolKHKqw6WeaKcVxUnCtLgHaEE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="IMG" />
   </a>
 </div>
 </p>
