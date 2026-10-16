@@ -10,7 +10,7 @@
 
 <!-- Animación Snake -->
 <div align="center">
-  <img src="https://th.bing.com/th/id/R.0970e5a9612e3b8610db9cc52d3f0379?rik=KorjIaDNP9NV4Q&pid=ImgRaw&r=0" alt="img" />
+  <img src="https://th.bing.com/th/id/R.0970e5a9612e3b8610db9cc52d3f0379?rik=KorjIaDNP9NV4Q&pid=ImgRaw&r=0" alt="img" width="40%" />
 </div>
 
 <!-- Subtítulo -->
