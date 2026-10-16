@@ -1,5 +1,5 @@
 <!-- Divididor horizontal (gradiente) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://tse3.mm.bing.net/th/id/OIP.0RaAH6HaC4CGD_C85FTe8AHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
 
 <!-- Saludo principal -->
 <div id="user-content-toc">
