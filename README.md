@@ -83,7 +83,7 @@
   </a>
   &nbsp;
   <a href="mailto:dadzea99@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="40" width="50" />
   </a>
 </p>
 
