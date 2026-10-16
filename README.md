@@ -10,7 +10,7 @@
 
 <!-- Animación Snake -->
 <div align="center">
-  <img src="https://th.bing.com/th/id/R.0970e5a9612e3b8610db9cc52d3f0379?rik=KorjIaDNP9NV4Q&pid=ImgRaw&r=0" alt="img" width="40%" />
+  <img src="https://th.bing.com/th/id/R.0970e5a9612e3b8610db9cc52d3f0379?rik=KorjIaDNP9NV4Q&pid=ImgRaw&r=0" alt="img" width="50%" />
 </div>
 
 <!-- Subtítulo -->
@@ -48,7 +48,7 @@
 <!-- Trofeos de GitHub -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%" src="https://tse3.mm.bing.net/th/id/OIP.jolKHKqw6WeaKcVxUnCtLgHaEE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="IMG" />
+    <img align="center" width="84%" src="https://tse3.mm.bing.net/th/id/OIP.jolKHKqw6WeaKcVxUnCtLgHaEE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="IMG" width="40%" />
   </a>
 </div>
 </p>
@@ -95,4 +95,4 @@
 
 <!-- Divididor horizontal final -->
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="blob:https://gemini.google.com/58e8d2f4-bace-40de-bdb5-f11397f2495b" width="40" />
