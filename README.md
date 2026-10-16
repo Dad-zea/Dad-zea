@@ -82,7 +82,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" />
   </a>
   &nbsp;
-  <a href="dadzea99@gmail.com" target="_blank">
+  <a href="mailto:dadzea99@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="40" width="40" />
   </a>
 </p>
@@ -90,11 +90,9 @@
 <!-- Contador de Visitas -->
 <div align="center">
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=Dad-zea&icon=3&color=6" />
+  <img src="https://tse3.mm.bing.net/th/id/OIP.QvD1ZhF8Oc23dAnRb6hmuwHaEs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" />
 </div>
 
 <!-- Divididor horizontal final -->
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://tse3.mm.bing.net/th/id/OIP.QvD1ZhF8Oc23dAnRb6hmuwHaEs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
