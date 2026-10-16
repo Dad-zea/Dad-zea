@@ -48,7 +48,7 @@
 <!-- Trofeos de GitHub -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%" src="https://tse3.mm.bing.net/th/id/OIP.jolKHKqw6WeaKcVxUnCtLgHaEE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="IMG" width="40%" />
+    <img align="center" width="44%" src="https://tse3.mm.bing.net/th/id/OIP.jolKHKqw6WeaKcVxUnCtLgHaEE?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="IMG" />
   </a>
 </div>
 </p>
@@ -95,4 +95,6 @@
 
 <!-- Divididor horizontal final -->
 <br>
-<img src="blob:https://gemini.google.com/58e8d2f4-bace-40de-bdb5-f11397f2495b" width="40" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://tse3.mm.bing.net/th/id/OIP.QvD1ZhF8Oc23dAnRb6hmuwHaEs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
